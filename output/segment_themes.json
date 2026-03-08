@@ -1,419 +1,46 @@
 {
-  "segments": [
+  "segment_id": "{segment_id}",
+  "segment_name": "{segment_name}",
+  "octolysis_themes": [
     {
-      "segment_id": "S4",
-      "segment_name": "Coin Collectors",
-      "octolysis_themes": [
-        {
-          "core_drive": "Epic Meaning",
-          "relevance_score": 0.45,
-          "reasoning": "Participating in a community of collectors aligns with their dominant propensity for gamification"
-        },
-        {
-          "core_drive": "Accomplishment",
-          "relevance_score": 0.65,
-          "reasoning": "Streaks, XP, and levels motivate collectors to make progress and master skills"
-        },
-        {
-          "core_drive": "Empowerment",
-          "relevance_score": 0.3,
-          "reasoning": "Practice \u2192 feedback loop allows collectors to take control of their learning"
-        },
-        {
-          "core_drive": "Ownership",
-          "relevance_score": 0.5,
-          "reasoning": "Progress dashboard gives collectors a sense of ownership and investment in the game"
-        },
-        {
-          "core_drive": "Social Influence",
-          "relevance_score": 0.6,
-          "reasoning": "Leaderboards and sharing wins tap into collectors' desire for social connection and status"
-        },
-        {
-          "core_drive": "Scarcity",
-          "relevance_score": 0.2,
-          "reasoning": "Limited trial days create a sense of urgency and FOMO among collectors"
-        },
-        {
-          "core_drive": "Unpredictability",
-          "relevance_score": 0.4,
-          "reasoning": "New daily scenarios keep the game fresh and exciting for collectors"
-        },
-        {
-          "core_drive": "Loss Avoidance",
-          "relevance_score": 0.55,
-          "reasoning": "Streak reminders motivate collectors to maintain their progress and avoid losing momentum"
-        }
-      ]
+      "core_drive": "Epic Meaning",
+      "relevance_score": 0.23,
+      "reasoning": "Aligns with dominant propensity for {dominant_propensity} and activation level of {activation_level}"
     },
     {
-      "segment_id": "S7",
-      "segment_name": "Fading Players",
-      "octolysis_themes": [
-        {
-          "core_drive": "Epic Meaning",
-          "relevance_score": 0.05,
-          "reasoning": "Low activation and lack of community features"
-        },
-        {
-          "core_drive": "Accomplishment",
-          "relevance_score": 0.35,
-          "reasoning": "Streaks and XP levels are present, but not emphasized"
-        },
-        {
-          "core_drive": "Empowerment",
-          "relevance_score": 0.1,
-          "reasoning": "Limited feedback loop and no creative control"
-        },
-        {
-          "core_drive": "Ownership",
-          "relevance_score": 0.2,
-          "reasoning": "Progress dashboard is present, but not prominent"
-        },
-        {
-          "core_drive": "Social Influence",
-          "relevance_score": 0.15,
-          "reasoning": "Leaderboards and share wins are present, but not highly engaging"
-        },
-        {
-          "core_drive": "Scarcity",
-          "relevance_score": 0.3,
-          "reasoning": "Limited trial days create a sense of urgency"
-        },
-        {
-          "core_drive": "Unpredictability",
-          "relevance_score": 0.05,
-          "reasoning": "New daily scenarios are present, but not highly varied"
-        },
-        {
-          "core_drive": "Loss Avoidance",
-          "relevance_score": 0.4,
-          "reasoning": "Streak reminders and retention goals emphasize progress preservation"
-        }
-      ]
+      "core_drive": "Accomplishment",
+      "relevance_score": 0.51,
+      "reasoning": "Matches average gamification propensity of {avg_gamification:.2f} and user count of {user_count}"
     },
     {
-      "segment_id": "S6",
-      "segment_name": "Social Observers",
-      "octolysis_themes": [
-        {
-          "core_drive": "Epic Meaning",
-          "relevance_score": 0.45,
-          "reasoning": "Dominant propensity for leaderboard and activation level of Medium align with MCC trajectory goal"
-        },
-        {
-          "core_drive": "Accomplishment",
-          "relevance_score": 0.65,
-          "reasoning": "High average gamification propensity and streaks feature align with Accomplishment core drive"
-        },
-        {
-          "core_drive": "Empowerment",
-          "relevance_score": 0.2,
-          "reasoning": "Low activation level and lack of creative control features reduce Empowerment relevance"
-        },
-        {
-          "core_drive": "Ownership",
-          "relevance_score": 0.3,
-          "reasoning": "Moderate average AI tutor propensity and progress dashboard feature align with Ownership core drive"
-        },
-        {
-          "core_drive": "Social Influence",
-          "relevance_score": 0.8,
-          "reasoning": "High dominant propensity for leaderboard and activation level of Medium align with Social Influence core drive"
-        },
-        {
-          "core_drive": "Scarcity",
-          "relevance_score": 0.1,
-          "reasoning": "Low average AI tutor propensity and limited trial days feature reduce Scarcity relevance"
-        },
-        {
-          "core_drive": "Unpredictability",
-          "relevance_score": 0.25,
-          "reasoning": "Moderate activation level and new daily scenarios feature align with Unpredictability core drive"
-        },
-        {
-          "core_drive": "Loss Avoidance",
-          "relevance_score": 0.4,
-          "reasoning": "Moderate average gamification propensity and streak reminders feature align with Loss Avoidance core drive"
-        }
-      ]
+      "core_drive": "Empowerment",
+      "relevance_score": 0.17,
+      "reasoning": "Lacks clear connection to product hooks, but may appeal to users with high activation level"
     },
     {
-      "segment_id": "S5",
-      "segment_name": "Steady Students",
-      "octolysis_themes": [
-        {
-          "core_drive": "Accomplishment",
-          "relevance_score": 0.83,
-          "reasoning": "High activation level and average AI tutor propensity indicate a strong desire for skill mastery"
-        },
-        {
-          "core_drive": "Epic Meaning",
-          "relevance_score": 0.56,
-          "reasoning": "Medium activation level suggests a moderate connection to the bigger picture"
-        },
-        {
-          "core_drive": "Empowerment",
-          "relevance_score": 0.42,
-          "reasoning": "Low activation level and average practice-to-feedback loop propensity indicate limited creative control"
-        },
-        {
-          "core_drive": "Ownership",
-          "relevance_score": 0.67,
-          "reasoning": "Medium activation level and progress dashboard feature suggest a moderate desire for building possessions"
-        },
-        {
-          "core_drive": "Social Influence",
-          "relevance_score": 0.51,
-          "reasoning": "Low activation level and average leaderboard propensity indicate limited social connection"
-        },
-        {
-          "core_drive": "Scarcity",
-          "relevance_score": 0.29,
-          "reasoning": "Low activation level and limited trial days feature suggest a low fear of missing out"
-        },
-        {
-          "core_drive": "Unpredictability",
-          "relevance_score": 0.19,
-          "reasoning": "Low activation level and new daily scenarios feature indicate limited curiosity"
-        },
-        {
-          "core_drive": "Loss Avoidance",
-          "relevance_score": 0.61,
-          "reasoning": "Medium activation level and streak reminders feature suggest a moderate fear of losing progress"
-        }
-      ]
+      "core_drive": "Ownership",
+      "relevance_score": 0.12,
+      "reasoning": "Not strongly represented in tone_hooks_json and user count is low"
     },
     {
-      "segment_id": "S9",
-      "segment_name": "Disconnected",
-      "octolysis_themes": [
-        {
-          "core_drive": "Epic Meaning",
-          "relevance_score": 0.05,
-          "reasoning": "Low activation and lack of community features"
-        },
-        {
-          "core_drive": "Accomplishment",
-          "relevance_score": 0.15,
-          "reasoning": "Streaks and XP levels, but low average gamification propensity"
-        },
-        {
-          "core_drive": "Empowerment",
-          "relevance_score": 0.1,
-          "reasoning": "Limited practice features and no feedback loop"
-        },
-        {
-          "core_drive": "Ownership",
-          "relevance_score": 0.2,
-          "reasoning": "Progress dashboard, but low average AI tutor propensity"
-        },
-        {
-          "core_drive": "Social Influence",
-          "relevance_score": 0.3,
-          "reasoning": "Leaderboards and share wins, aligns with dominant leaderboard propensity"
-        },
-        {
-          "core_drive": "Scarcity",
-          "relevance_score": 0.25,
-          "reasoning": "Limited trial days, but low average activation score"
-        },
-        {
-          "core_drive": "Unpredictability",
-          "relevance_score": 0.05,
-          "reasoning": "New daily scenarios, but low dominant propensity for novelty"
-        },
-        {
-          "core_drive": "Loss Avoidance",
-          "relevance_score": 0.2,
-          "reasoning": "Streak reminders, but low average activation score"
-        }
-      ]
+      "core_drive": "Social Influence",
+      "relevance_score": 0.56,
+      "reasoning": "Aligns with average AI Tutor propensity of {avg_ai_tutor:.2f} and activation level of {activation_level}"
     },
     {
-      "segment_id": "S3",
-      "segment_name": "Top Competitors",
-      "octolysis_themes": [
-        {
-          "core_drive": "Epic Meaning",
-          "relevance_score": 0.83,
-          "reasoning": "High activation level and leaderboard propensity align with feeling part of something bigger"
-        },
-        {
-          "core_drive": "Accomplishment",
-          "relevance_score": 0.92,
-          "reasoning": "Dominant propensity for leaderboard and high average gamification propensity"
-        },
-        {
-          "core_drive": "Empowerment",
-          "relevance_score": 0.41,
-          "reasoning": "Low activation level and no prominent feature or mechanic"
-        },
-        {
-          "core_drive": "Ownership",
-          "relevance_score": 0.56,
-          "reasoning": "Moderate activation level and progress dashboard feature"
-        },
-        {
-          "core_drive": "Social Influence",
-          "relevance_score": 0.81,
-          "reasoning": "High activation level, leaderboard propensity, and share wins feature"
-        },
-        {
-          "core_drive": "Scarcity",
-          "relevance_score": 0.19,
-          "reasoning": "Low activation level and limited trial days feature"
-        },
-        {
-          "core_drive": "Unpredictability",
-          "relevance_score": 0.67,
-          "reasoning": "Moderate activation level and new daily scenarios feature"
-        },
-        {
-          "core_drive": "Loss Avoidance",
-          "relevance_score": 0.78,
-          "reasoning": "High activation level, streak reminders feature, and retention goal"
-        }
-      ]
+      "core_drive": "Scarcity",
+      "relevance_score": 0.31,
+      "reasoning": "Matches user count of {user_count} and some product hooks, but not strongly represented"
     },
     {
-      "segment_id": "S2",
-      "segment_name": "Power Learners",
-      "octolysis_themes": [
-        {
-          "core_drive": "Accomplishment",
-          "relevance_score": 0.83,
-          "reasoning": "High activation level and AI tutor propensity indicate a strong desire for skill mastery"
-        },
-        {
-          "core_drive": "Epic Meaning",
-          "relevance_score": 0.56,
-          "reasoning": "MCC trajectory goal suggests a sense of purpose, but not as dominant as other drives"
-        },
-        {
-          "core_drive": "Empowerment",
-          "relevance_score": 0.42,
-          "reasoning": "Practice \u2192 feedback loop feature indicates some desire for creative control, but not highly relevant"
-        },
-        {
-          "core_drive": "Ownership",
-          "relevance_score": 0.67,
-          "reasoning": "Progress dashboard suggests a desire to build possessions and track progress"
-        },
-        {
-          "core_drive": "Social Influence",
-          "relevance_score": 0.51,
-          "reasoning": "Leaderboards and share wins feature indicate some social influence, but not highly relevant"
-        },
-        {
-          "core_drive": "Scarcity",
-          "relevance_score": 0.29,
-          "reasoning": "Limited trial days suggest a fear of missing out, but not as dominant as other drives"
-        },
-        {
-          "core_drive": "Unpredictability",
-          "relevance_score": 0.39,
-          "reasoning": "New daily scenarios feature indicates some curiosity and novelty-seeking, but not highly relevant"
-        },
-        {
-          "core_drive": "Loss Avoidance",
-          "relevance_score": 0.61,
-          "reasoning": "Streak reminders suggest a fear of losing progress and habit streaks, which is moderately relevant"
-        }
-      ]
+      "core_drive": "Unpredictability",
+      "relevance_score": 0.19,
+      "reasoning": "Lacks clear connection to product hooks and activation level is low"
     },
     {
-      "segment_id": "S1",
-      "segment_name": "Streak Champions",
-      "octolysis_themes": [
-        {
-          "core_drive": "Epic Meaning",
-          "relevance_score": 0.85,
-          "reasoning": "High activation and gamification propensity align with feeling part of a bigger community"
-        },
-        {
-          "core_drive": "Accomplishment",
-          "relevance_score": 0.92,
-          "reasoning": "Dominant gamification propensity and streaks feature drive progress and mastery"
-        },
-        {
-          "core_drive": "Empowerment",
-          "relevance_score": 0.78,
-          "reasoning": "Practice \u2192 feedback loop empowers users to make choices and improve skills"
-        },
-        {
-          "core_drive": "Ownership",
-          "relevance_score": 0.8,
-          "reasoning": "Progress dashboard gives users a sense of control over their progress"
-        },
-        {
-          "core_drive": "Social Influence",
-          "relevance_score": 0.9,
-          "reasoning": "Leaderboards and share wins foster social connection and status"
-        },
-        {
-          "core_drive": "Scarcity",
-          "relevance_score": 0.6,
-          "reasoning": "Limited trial days create a sense of urgency, but may not be highly relevant for this segment"
-        },
-        {
-          "core_drive": "Unpredictability",
-          "relevance_score": 0.7,
-          "reasoning": "New daily scenarios add novelty and curiosity, but may not be the dominant driver"
-        },
-        {
-          "core_drive": "Loss Avoidance",
-          "relevance_score": 0.85,
-          "reasoning": "Streak reminders help users avoid losing progress and maintain habit streaks"
-        }
-      ]
-    },
-    {
-      "segment_id": "S8",
-      "segment_name": "Stuck Users",
-      "octolysis_themes": [
-        {
-          "core_drive": "Epic Meaning",
-          "relevance_score": 0.05,
-          "reasoning": "Low activation and lack of community connection"
-        },
-        {
-          "core_drive": "Accomplishment",
-          "relevance_score": 0.35,
-          "reasoning": "Streaks and XP levels align with dominant propensity for ai_tutor"
-        },
-        {
-          "core_drive": "Empowerment",
-          "relevance_score": 0.1,
-          "reasoning": "Limited practice \u2192 feedback loop, low activation"
-        },
-        {
-          "core_drive": "Ownership",
-          "relevance_score": 0.2,
-          "reasoning": "Progress dashboard aligns with dominant propensity for ai_tutor, but low activation"
-        },
-        {
-          "core_drive": "Social Influence",
-          "relevance_score": 0.05,
-          "reasoning": "Low leaderboard engagement and share wins"
-        },
-        {
-          "core_drive": "Scarcity",
-          "relevance_score": 0.3,
-          "reasoning": "Limited trial days align with dominant propensity for ai_tutor, but low activation"
-        },
-        {
-          "core_drive": "Unpredictability",
-          "relevance_score": 0.15,
-          "reasoning": "New daily scenarios align with dominant propensity for ai_tutor, but low activation"
-        },
-        {
-          "core_drive": "Loss Avoidance",
-          "relevance_score": 0.4,
-          "reasoning": "Streak reminders align with dominant propensity for ai_tutor and low activation pattern"
-        }
-      ]
+      "core_drive": "Loss Avoidance",
+      "relevance_score": 0.29,
+      "reasoning": "Aligns with average leaderboard propensity of {avg_leaderboard:.2f} and user count of {user_count}"
     }
-  ],
-  "total_segments": 9
+  ]
 }
