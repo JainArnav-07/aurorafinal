@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "category": "Core Learning",
+      "feature": "AI conversations",
+      "goals": [
+        "Skill improvement",
+        "Habit formation"
+      ],
+      "lifecycle_stage": null,
+      "metrics_impacted": [
+        "MCC"
+      ]
+    },
+    {
+      "category": "Gamification",
+      "feature": "Streaks",
+      "goals": [
+        "Motivation",
+        "Identity"
+      ],
+      "lifecycle_stage": null,
+      "metrics_impacted": [
+        "session frequency",
+        "retention"
+      ]
+    },
+    {
+      "category": "AI Companion",
+      "feature": "Personalized nudges",
+      "goals": [
+        "Engagement",
+        "Trust"
+      ],
+      "lifecycle_stage": null,
+      "metrics_impacted": [
+        "MCC",
+        "long-term retention"
+      ]
+    }
+  ],
+  "summary_feature_goal_map": {
+    "feature": "AI Companion",
+    "primary_goal": "Engagement"
+  }
+}

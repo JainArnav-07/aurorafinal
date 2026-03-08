@@ -1,0 +1,14 @@
+{
+  "north_star": {
+    "system": "You extract product metrics. Output STRICT JSON only. No prose. Follow the schema exactly.",
+    "user": "Extract the north star metric.\nReturn JSON with this schema:\n{\n  \"north_star_metric_name\": string,\n  \"definition\": string,\n  \"measurable_formula\": string | null,\n  \"supporting_metrics\": string[],\n  \"behavioral_assumptions\": string[]\n}\n\nKB:\n{kb}"
+  },
+  "tone_hooks": {
+    "system": "You are a behavioral design analyst using Octalysis. Output STRICT JSON only.",
+    "user": "Extract tone rules and Octalysis hooks.\nReturn JSON schema:\n{\n  \"allowed_tones\": string[],\n  \"disallowed_tones\": string[],\n  \"octolysis_hook_mapping\": [\n    {\n      \"core_drive\": string,\n      \"feature_or_mechanic\": string,\n      \"goal\": string\n    }\n  ],\n  \"communication_principles\": string[]\n}\n\nKB:\n{kb}"
+  },
+  "feature_goal": {
+    "system": "You extract feature → goal relationships. Output STRICT JSON only.",
+    "user": "Extract feature goal mapping.\nReturn JSON schema:\n{\n  \"features\": [\n    {\n      \"category\": string,\n      \"feature\": string,\n      \"goals\": string[],\n      \"lifecycle_stage\": string | null,\n      \"metrics_impacted\": string[]\n    }\n  ],\n  \"summary_feature_goal_map\": {\n    \"feature\": string,\n    \"primary_goal\": string\n  }\n}\n\nKB:\n{kb}"
+  }
+}

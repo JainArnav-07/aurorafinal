@@ -1,0 +1,17 @@
+{
+  "north_star_metric_name": "Monthly Confident Conversations (MCC)",
+  "definition": "Number of users who complete \u226512 meaningful AI speaking sessions per month with measurable fluency improvement",
+  "measurable_formula": null,
+  "supporting_metrics": [
+    "Weekly active speaking users",
+    "Session completion rate",
+    "Confidence score improvement",
+    "Trial \u2192 Paid conversion"
+  ],
+  "behavioral_assumptions": [
+    "Daily micro-practice beats long sessions",
+    "Confidence grows through repetition",
+    "Positive reinforcement increases retention",
+    "Identity > motivation for long-term engagement"
+  ]
+}
