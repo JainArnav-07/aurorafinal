@@ -1,46 +1,188 @@
 {
   "features": [
     {
-      "category": "Core Learning",
-      "feature": "AI conversations",
-      "goals": [
-        "Skill improvement",
-        "Habit formation"
+      "feature_name": "days_since_signup",
+      "primary_goal": "Trial \u2192 Paid conversion",
+      "sub_goals": [
+        "First habit loop",
+        "Guided onboarding",
+        "Easy wins"
       ],
-      "lifecycle_stage": null,
-      "metrics_impacted": [
-        "MCC"
+      "day_on_day_progression_goals": [
+        "3 sessions"
       ]
     },
     {
-      "category": "Gamification",
-      "feature": "Streaks",
-      "goals": [
-        "Motivation",
-        "Identity"
+      "feature_name": "age_band",
+      "primary_goal": "Career growth, meetings, presentations",
+      "sub_goals": [
+        "Skill improvement \u2192 MCC",
+        "Habit formation \u2192 retention"
       ],
-      "lifecycle_stage": null,
-      "metrics_impacted": [
-        "session frequency",
-        "retention"
+      "day_on_day_progression_goals": [
+        "Session completion rate"
       ]
     },
     {
-      "category": "AI Companion",
-      "feature": "Personalized nudges",
-      "goals": [
-        "Engagement",
-        "Trust"
+      "feature_name": "region",
+      "primary_goal": "Placements, interviews",
+      "sub_goals": [
+        "Vocabulary gap, hesitation \u2192 MCC",
+        "Confidence score improvement"
       ],
-      "lifecycle_stage": null,
-      "metrics_impacted": [
-        "MCC",
-        "long-term retention"
+      "day_on_day_progression_goals": [
+        "Streak length"
+      ]
+    },
+    {
+      "feature_name": "sessions_last_7d",
+      "primary_goal": "Motivation \u2192 session frequency",
+      "sub_goals": [
+        "XP & levels",
+        "Leaderboards"
+      ],
+      "day_on_day_progression_goals": [
+        "Daily speaking sessions"
+      ]
+    },
+    {
+      "feature_name": "exercises_completed_7d",
+      "primary_goal": "Identity \u2192 retention",
+      "sub_goals": [
+        "Progress visibility",
+        "Personalization"
+      ],
+      "day_on_day_progression_goals": [
+        "Confidence reminder"
+      ]
+    },
+    {
+      "feature_name": "streak_current",
+      "primary_goal": "Engagement \u2192 MCC",
+      "sub_goals": [
+        "Streaks",
+        "Emotional encouragement"
+      ],
+      "day_on_day_progression_goals": [
+        "Long streak reinforcement"
+      ]
+    },
+    {
+      "feature_name": "coins_balance",
+      "primary_goal": "Value realization",
+      "sub_goals": [
+        "Advanced scenarios",
+        "Social proof"
+      ],
+      "day_on_day_progression_goals": [
+        "Progress dashboard"
+      ]
+    },
+    {
+      "feature_name": "feature_ai_tutor_used",
+      "primary_goal": "Re-activation",
+      "sub_goals": [
+        "Reduced friction return",
+        "Highlight missed streak"
+      ],
+      "day_on_day_progression_goals": [
+        "New daily scenarios"
+      ]
+    },
+    {
+      "feature_name": "feature_leaderboard_viewed",
+      "primary_goal": "Social Influence \u2192 share wins",
+      "sub_goals": [
+        "Leaderboards",
+        "Share wins"
+      ],
+      "day_on_day_progression_goals": [
+        "XP & levels"
+      ]
+    },
+    {
+      "feature_name": "feature_progress_checked",
+      "primary_goal": "Unpredictability \u2192 new daily scenarios",
+      "sub_goals": [
+        "Personalization must remain explainable"
+      ],
+      "day_on_day_progression_goals": [
+        "Streak reminders"
+      ]
+    },
+    {
+      "feature_name": "preferred_hour",
+      "primary_goal": "Loss Avoidance \u2192 streak reminders",
+      "sub_goals": [
+        "Daily micro-practice beats long sessions"
+      ],
+      "day_on_day_progression_goals": [
+        "Confidence grows through repetition"
+      ]
+    },
+    {
+      "feature_name": "notif_open_rate_30d",
+      "primary_goal": "Motivation \u2192 session frequency",
+      "sub_goals": [
+        "Positive reinforcement increases retention"
+      ],
+      "day_on_day_progression_goals": [
+        "Session completion rate"
+      ]
+    },
+    {
+      "feature_name": "motivation_score",
+      "primary_goal": "Empowerment \u2192 practice \u2192 feedback loop",
+      "sub_goals": [
+        "Confidence grows through repetition",
+        "Daily micro-practice beats long sessions"
+      ],
+      "day_on_day_progression_goals": [
+        "Progress dashboard"
+      ]
+    },
+    {
+      "feature_name": "gamification_propensity",
+      "primary_goal": "Social Influence \u2192 share wins",
+      "sub_goals": [
+        "Leaderboards",
+        "Share wins"
+      ],
+      "day_on_day_progression_goals": [
+        "XP & levels"
+      ]
+    },
+    {
+      "feature_name": "ai_tutor_propensity",
+      "primary_goal": "Unpredictability \u2192 new daily scenarios",
+      "sub_goals": [
+        "Personalization must remain explainable"
+      ],
+      "day_on_day_progression_goals": [
+        "Streak reminders"
+      ]
+    },
+    {
+      "feature_name": "leaderboard_propensity",
+      "primary_goal": "Social Influence \u2192 share wins",
+      "sub_goals": [
+        "Leaderboards",
+        "Share wins"
+      ],
+      "day_on_day_progression_goals": [
+        "XP & levels"
+      ]
+    },
+    {
+      "feature_name": "activation_score",
+      "primary_goal": "Empowerment \u2192 practice \u2192 feedback loop",
+      "sub_goals": [
+        "Confidence grows through repetition",
+        "Daily micro-practice beats long sessions"
+      ],
+      "day_on_day_progression_goals": [
+        "Progress dashboard"
       ]
     }
-  ],
-  "summary_feature_goal_map": {
-    "feature": "AI Companion",
-    "primary_goal": "Engagement"
-  }
+  ]
 }
