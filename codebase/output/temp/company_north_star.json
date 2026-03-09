@@ -1,0 +1,5 @@
+{
+  "inferred_north_star": "Monthly Confident Conversations (MCC)",
+  "justification": "The primary inferred North Star metric is MCC, which measures the number of users who complete \u226512 meaningful AI speaking sessions per month with measurable fluency improvement.",
+  "measurable_proxy": "Weekly active speaking users"
+}

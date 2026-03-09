@@ -1,0 +1,10 @@
+Segment ID,Segment Name,Primary Theme,Secondary Theme,Tone Preferences,Hooks per Segment
+S1,Streak Champions,Accomplishment,Social Influence,"Encouraging, Growth-focused",{'$ref': '#/definitions/HookTaxonomy'}
+S2,Power Learners,Accomplishment,Social Influence,"Encouraging, Growth-focused",{'$ref': '#/definitions/HookTaxonomy'}
+S3,Top Competitors,Accomplishment,Social Influence,"Encouraging, Growth-focused",{'$ref': '#/definitions/HookTaxonomy'}
+S4,Coin Collectors,Accomplishment,Ownership,"Encouraging, Growth-focused",{'$ref': '#/definitions/HookTaxonomy'}
+S5,Steady Students,Accomplishment,Loss Avoidance,"Encouraging, Growth-focused",{'$ref': '#/definitions/HookTaxonomy'}
+S6,Social Observers,5. Social Influence,8. Loss Avoidance,"Encouraging, Growth-focused",{'$ref': '#/definitions/HookTaxonomy'}
+S7,Fading Players,Loss Avoidance,Social Influence,"Encouraging, Growth-focused",{'$ref': '#/definitions/HookTaxonomy'}
+S8,Stuck Users,Loss Avoidance,Accomplishment,"Encouraging, Growth-focused",{'$ref': '#/definitions/HookTaxonomy'}
+S9,Disconnected,Loss Avoidance,Social Influence,"Encouraging, Growth-focused",{'$ref': '#/definitions/HookTaxonomy'}

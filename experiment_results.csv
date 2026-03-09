@@ -1,0 +1,16 @@
+template_id,segment_id,lifecycle_stage,goal,theme,notification_window,total_sends,total_opens,total_engagements,ctr,engagement_rate,uninstall_rate,performance_status
+TPL-78A55AB3,S4,paid,Increase Daily Practice,Epic Meaning,early_morning,1000,180,81,0.18,0.45,0.01,GOOD
+TPL-358F39A1,S7,churned,Reactivation,Loss Avoidance,mid_morning,500,20,3,0.04,0.15,0.03,BAD
+TPL-C6A0C296,S6,trial,Demo Conversion,Scarcity,afternoon,800,88,22,0.11,0.25,0.015,NEUTRAL
+TPL-1B99BA9F,S6,paid,Feature Discovery,Accomplishment,mid_morning,1200,240,108,0.20,0.45,0.005,GOOD
+TPL-3DBF55D2,S7,churned,Win-back Discount,Ownership,early_morning,600,60,18,0.10,0.30,0.025,NEUTRAL
+TPL-50962686,S5,trial,Day 1 Habit Formation,Empowerment,early_morning,1500,45,5,0.03,0.111,0.04,BAD
+TPL-49C44077,S9,inactive,Re-engagement,Social Influence,late_afternoon,400,52,18,0.13,0.346,0.01,NEUTRAL
+TPL-BD88BE34,S5,trial,Complete First Lesson,Unpredictability,afternoon,900,180,90,0.20,0.50,0.002,GOOD
+TPL-8986FD04,S7,inactive,Profile Completion,Accomplishment,mid_morning,350,14,2,0.04,0.142,0.02,BAD
+TPL-DD8A4550,S6,paid,Streak Maintenance,Loss Avoidance,mid_morning,2000,340,153,0.17,0.45,0.001,GOOD
+TPL-EE333065,S1,paid,Advanced Path Unlock,Epic Meaning,late_afternoon,1100,253,126,0.23,0.50,0.008,GOOD
+TPL-9CD9C9F7,S2,paid,Leaderboard Climb,Social Influence,mid_morning,850,76,21,0.089,0.276,0.012,NEUTRAL
+TPL-C27B333B,S9,trial,Urgent Trial Expiry,Scarcity,evening,650,26,4,0.04,0.153,0.035,BAD
+TPL-0BDD1D1C,S5,paid,Morning Routine,Empowerment,early_morning,1350,229,103,0.17,0.45,0.004,GOOD
+TPL-F345A9B9,S9,churned,Feedback Collection,Ownership,evening,450,49,14,0.108,0.285,0.021,NEUTRAL
