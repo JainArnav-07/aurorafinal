@@ -1,0 +1,21 @@
+{
+  "allowed_tones": [
+    "Encouraging",
+    "Non-judgmental",
+    "Growth-focused",
+    "Friendly accountability",
+    "Small wins celebration"
+  ],
+  "disallowed_tones": [
+    "Shame-based urgency",
+    "Fear manipulation",
+    "Unrealistic promises",
+    "Comparison with other users",
+    "Over-notification pressure"
+  ],
+  "hook_taxonomy": [
+    {
+      "$ref": "#/definitions/HookTaxonomy"
+    }
+  ]
+}
