@@ -78,8 +78,8 @@ Files required:
 Execution:
   1. Navigate to codebase/
   2. Run task1.ipynb - Generates all segment profiles and themes
-  3. Run task2.ipynb - Creates templates, timing windows, and frequency assignments
-  4. Run task3.ipynb - Generates final user notification schedule
+  3. Run task2_timewondow.ipynb - Creates templates, timing windows, and frequency assignments
+  4. Run task3_users_notifications_generation.ipynb - Generates final user notification schedule
   
 Outputs flow to output/ directory with timestamped backups in output/temp/
 
