@@ -2,88 +2,88 @@
   "features": [
     {
       "feature_name": "days_since_signup",
-      "lifecycle_stage": "Trial",
-      "outcome_mapping": "Re-engagement"
+      "lifecycle_stage": "Trial (D0\u201314)",
+      "outcome_mapping": "First habit loop"
     },
     {
       "feature_name": "age_band",
-      "lifecycle_stage": "Paid",
+      "lifecycle_stage": "Retention (D31+)",
       "outcome_mapping": "Identity formation"
     },
     {
       "feature_name": "region",
-      "lifecycle_stage": "Paid",
-      "outcome_mapping": "Personalization"
+      "lifecycle_stage": "Trial (D0\u201314)",
+      "outcome_mapping": "First habit loop"
     },
     {
       "feature_name": "sessions_last_7d",
-      "lifecycle_stage": "Trial",
-      "outcome_mapping": "Re-engagement"
+      "lifecycle_stage": "Retention (D31+)",
+      "outcome_mapping": "Identity formation"
     },
     {
       "feature_name": "exercises_completed_7d",
-      "lifecycle_stage": "Paid",
-      "outcome_mapping": "Empowerment"
+      "lifecycle_stage": "Trial (D0\u201314)",
+      "outcome_mapping": "First habit loop"
     },
     {
       "feature_name": "streak_current",
-      "lifecycle_stage": "Retention",
-      "outcome_mapping": "Long-term retention"
+      "lifecycle_stage": "Retention (D31+)",
+      "outcome_mapping": "Identity formation"
     },
     {
       "feature_name": "coins_balance",
-      "lifecycle_stage": "Paid",
-      "outcome_mapping": "Personalization"
+      "lifecycle_stage": "Trial (D0\u201314)",
+      "outcome_mapping": "First habit loop"
     },
     {
       "feature_name": "feature_ai_tutor_used",
-      "lifecycle_stage": "Trial",
-      "outcome_mapping": "Re-engagement"
+      "lifecycle_stage": "Paid (D15\u201330)",
+      "outcome_mapping": "Value realization"
     },
     {
       "feature_name": "feature_leaderboard_viewed",
-      "lifecycle_stage": "Paid",
-      "outcome_mapping": "Social Influence"
+      "lifecycle_stage": "Retention (D31+)",
+      "outcome_mapping": "Identity formation"
     },
     {
       "feature_name": "feature_progress_checked",
-      "lifecycle_stage": "Retention",
-      "outcome_mapping": "Long-term retention"
+      "lifecycle_stage": "Trial (D0\u201314)",
+      "outcome_mapping": "First habit loop"
     },
     {
       "feature_name": "preferred_hour",
-      "lifecycle_stage": "Trial",
-      "outcome_mapping": "Re-engagement"
+      "lifecycle_stage": "Retention (D31+)",
+      "outcome_mapping": "Identity formation"
     },
     {
       "feature_name": "notif_open_rate_30d",
-      "lifecycle_stage": "Paid",
-      "outcome_mapping": "Personalization"
+      "lifecycle_stage": "Trial (D0\u201314)",
+      "outcome_mapping": "First habit loop"
     },
     {
       "feature_name": "motivation_score",
-      "lifecycle_stage": "Retention",
-      "outcome_mapping": "Empowerment"
+      "lifecycle_stage": "Retention (D31+)",
+      "outcome_mapping": "Identity formation"
     },
     {
       "feature_name": "gamification_propensity",
-      "lifecycle_stage": "Trial",
-      "outcome_mapping": "Re-engagement"
+      "lifecycle_stage": "Trial (D0\u201314)",
+      "outcome_mapping": "First habit loop"
     },
     {
       "feature_name": "ai_tutor_propensity",
-      "lifecycle_stage": "Paid",
-      "outcome_mapping": "Personalization"
+      "lifecycle_stage": "Paid (D15\u201330)",
+      "outcome_mapping": "Value realization"
     },
     {
       "feature_name": "leaderboard_propensity",
-      "lifecycle_stage": "Trial",
-      "outcome_mapping": "Re-engagement"
+      "lifecycle_stage": "Retention (D31+)",
+      "outcome_mapping": "Identity formation"
     },
     {
       "feature_name": "activation_score",
-      "lifecycle_stage": "Paid",
-      "outcome_mapping": "Identity formation"
+      "lifecycle_stage": "Trial (D0\u201314)",
+      "outcome_mapping": "First habit loop"
     }
   ]
 }

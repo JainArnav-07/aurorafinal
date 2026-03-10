@@ -7,42 +7,42 @@
         {
           "core_drive": "Accomplishment",
           "relevance_score": 0.83,
-          "reasoning": "Dominant gamification propensity, high activation level, and streaks/XP/tier badges product hooks"
+          "reasoning": "High gamification propensity, activation level, and product hooks align with mastery of skills"
         },
         {
-          "core_drive": "Empowerment",
-          "relevance_score": 0.72,
-          "reasoning": "Log \u2192 feedback \u2192 adjust loop empowers users to make choices"
-        },
-        {
-          "core_drive": "Ownership",
-          "relevance_score": 0.67,
-          "reasoning": "Personal nutrition dashboard and recipe sharing foster a sense of ownership"
+          "core_drive": "Epic Meaning",
+          "relevance_score": 0.42,
+          "reasoning": "Moderate connection to community, but not dominant"
         },
         {
           "core_drive": "Social Influence",
-          "relevance_score": 0.58,
-          "reasoning": "Recipe sharing, family plan milestones, and social connections drive engagement"
-        },
-        {
-          "core_drive": "Scarcity",
-          "relevance_score": 0.62,
-          "reasoning": "Limited trial days and expiring challenges create a sense of urgency"
+          "relevance_score": 0.56,
+          "reasoning": "Moderate social influence from leaderboards and user count"
         },
         {
           "core_drive": "Unpredictability",
-          "relevance_score": 0.45,
-          "reasoning": "New daily recipe suggestions introduce novelty and surprise"
+          "relevance_score": 0.19,
+          "reasoning": "Low novelty, as users are focused on streaks"
         },
         {
           "core_drive": "Loss Avoidance",
           "relevance_score": 0.81,
-          "reasoning": "Streak reminders and missed goal alerts prevent loss of progress"
+          "reasoning": "High activation level and product hooks align with fear of losing progress"
         },
         {
-          "core_drive": "Epic Meaning",
-          "relevance_score": 0.41,
-          "reasoning": "Building a healthier life identity provides an overarching purpose"
+          "core_drive": "Empowerment",
+          "relevance_score": 0.11,
+          "reasoning": "Low creative control, as users are focused on streaks"
+        },
+        {
+          "core_drive": "Ownership",
+          "relevance_score": 0.07,
+          "reasoning": "Low investment of time/effort, as users focus on short-term gains"
+        },
+        {
+          "core_drive": "Scarcity",
+          "relevance_score": 0.0,
+          "reasoning": "No fear of missing out, as users are focused on progress"
         }
       ]
     },
@@ -53,42 +53,42 @@
         {
           "core_drive": "Accomplishment",
           "relevance_score": 0.83,
-          "reasoning": "High activation level and avg_gamification propensity indicate a strong desire for progress and mastery"
-        },
-        {
-          "core_drive": "Empowerment",
-          "relevance_score": 0.72,
-          "reasoning": "Log \u2192 feedback \u2192 adjust loop empowers users to make choices and track progress"
-        },
-        {
-          "core_drive": "Ownership",
-          "relevance_score": 0.65,
-          "reasoning": "Personal nutrition dashboard allows users to build possessions and invest time/effort in their health"
-        },
-        {
-          "core_drive": "Social Influence",
-          "relevance_score": 0.58,
-          "reasoning": "Recipe sharing and family plan milestones tap into social influence and connection to community"
-        },
-        {
-          "core_drive": "Scarcity",
-          "relevance_score": 0.42,
-          "reasoning": "Limited trial days and expiring challenges create a sense of urgency and scarcity"
-        },
-        {
-          "core_drive": "Unpredictability",
-          "relevance_score": 0.38,
-          "reasoning": "New daily recipe suggestions introduce novelty and randomness, keeping users engaged"
-        },
-        {
-          "core_drive": "Loss Avoidance",
-          "relevance_score": 0.29,
-          "reasoning": "Streak reminders and missed goal alerts prevent loss of progress and habit streaks"
+          "reasoning": "High activation level and ai_tutor propensity indicate a strong desire for skill mastery"
         },
         {
           "core_drive": "Epic Meaning",
-          "relevance_score": 0.15,
-          "reasoning": "Building a healthier life identity is a vague and indirect connection to the product, but still relevant"
+          "relevance_score": 0.42,
+          "reasoning": "Moderate activation level suggests some connection to a larger purpose, but not primary motivator"
+        },
+        {
+          "core_drive": "Empowerment",
+          "relevance_score": 0.19,
+          "reasoning": "Low activation level and lack of leaderboard propensity indicate limited desire for creative control"
+        },
+        {
+          "core_drive": "Ownership",
+          "relevance_score": 0.11,
+          "reasoning": "Low activation level and no trigger mentioned suggest minimal investment in possessions or time/effort"
+        },
+        {
+          "core_drive": "Social Influence",
+          "relevance_score": 0.05,
+          "reasoning": "Low activation level and lack of social influence triggers indicate limited desire for community connection or status comparison"
+        },
+        {
+          "core_drive": "Scarcity",
+          "relevance_score": 0.01,
+          "reasoning": "Low activation level and no scarcity triggers mentioned suggest minimal fear of missing out"
+        },
+        {
+          "core_drive": "Unpredictability",
+          "relevance_score": 0.0,
+          "reasoning": "No activation level or triggers mentioned indicate no curiosity, randomness, or novelty desire"
+        },
+        {
+          "core_drive": "Loss Avoidance",
+          "relevance_score": 0.31,
+          "reasoning": "Moderate activation level and gym plateau trigger suggest some fear of losing progress, but not primary motivator"
         }
       ]
     },
@@ -99,42 +99,42 @@
         {
           "core_drive": "Accomplishment",
           "relevance_score": 0.83,
-          "reasoning": "High leaderboard propensity and average gamification propensity"
-        },
-        {
-          "core_drive": "Empowerment",
-          "relevance_score": 0.72,
-          "reasoning": "Log \u2192 feedback \u2192 adjust loop product hook"
-        },
-        {
-          "core_drive": "Ownership",
-          "relevance_score": 0.67,
-          "reasoning": "Personal nutrition dashboard and recipe sharing hooks"
+          "reasoning": "High activation level and leaderboard propensity indicate a strong desire for progress and mastery"
         },
         {
           "core_drive": "Social Influence",
-          "relevance_score": 0.81,
-          "reasoning": "Recipe sharing, family plan milestones, and social influence from user count"
-        },
-        {
-          "core_drive": "Scarcity",
-          "relevance_score": 0.85,
-          "reasoning": "Limited trial days, expiring challenges, and high activation level"
-        },
-        {
-          "core_drive": "Unpredictability",
-          "relevance_score": 0.69,
-          "reasoning": "New daily recipe suggestions and novelty from user count"
-        },
-        {
-          "core_drive": "Loss Avoidance",
-          "relevance_score": 0.78,
-          "reasoning": "Streak reminders, missed goal alerts, and high activation level"
+          "relevance_score": 0.72,
+          "reasoning": "Top competitors are likely influenced by others, seeking status and comparison to stay competitive"
         },
         {
           "core_drive": "Epic Meaning",
           "relevance_score": 0.56,
-          "reasoning": "Building a healthier life identity product context"
+          "reasoning": "While not dominant, the segment's high propensity for activation suggests a desire to feel part of something bigger"
+        },
+        {
+          "core_drive": "Unpredictability",
+          "relevance_score": 0.45,
+          "reasoning": "The segment's curiosity and novelty-seeking nature is hinted at by their high activation level, even if not dominant"
+        },
+        {
+          "core_drive": "Loss Avoidance",
+          "relevance_score": 0.38,
+          "reasoning": "Fear of losing progress or habit streaks may be a concern for top competitors, especially with their high propensity for activation"
+        },
+        {
+          "core_drive": "Scarcity",
+          "relevance_score": 0.23,
+          "reasoning": "While not highly relevant, the segment's average AI tutor and leaderboard propensities suggest some awareness of scarcity"
+        },
+        {
+          "core_drive": "Empowerment",
+          "relevance_score": 0.17,
+          "reasoning": "Low empowerment propensity indicates that top competitors may not be seeking creative control or making choices in their current experience"
+        },
+        {
+          "core_drive": "Ownership",
+          "relevance_score": 0.12,
+          "reasoning": "The segment's low ownership propensity and average macro tracking tedium suggest a lack of investment in possessions or time/effort"
         }
       ]
     },
@@ -144,43 +144,38 @@
       "octolysis_themes": [
         {
           "core_drive": "Epic Meaning",
-          "relevance_score": 0.05,
-          "reasoning": "Limited engagement, no clear purpose"
+          "relevance_score": 0.3,
+          "reasoning": "Participating in a community of collectors, contributing to a shared knowledge base"
         },
         {
           "core_drive": "Accomplishment",
-          "relevance_score": 0.65,
-          "reasoning": "Streaks, XP, tier badges align with dominant gamification propensity"
-        },
-        {
-          "core_drive": "Empowerment",
-          "relevance_score": 0.3,
-          "reasoning": "Log \u2192 feedback \u2192 adjust loop provides some control"
+          "relevance_score": 0.6,
+          "reasoning": "Completing sets, achieving rarity milestones, mastering new coins"
         },
         {
           "core_drive": "Ownership",
           "relevance_score": 0.4,
-          "reasoning": "Personal nutrition dashboard aligns with ownership desire"
+          "reasoning": "Building a personal collection, investing time and effort to acquire rare coins"
         },
         {
           "core_drive": "Social Influence",
           "relevance_score": 0.2,
-          "reasoning": "Recipe sharing, family plan milestones provide some social connection"
+          "reasoning": "Comparing collections with others, seeking validation through social media"
         },
         {
           "core_drive": "Scarcity",
-          "relevance_score": 0.6,
-          "reasoning": "Limited trial days, expiring challenges create a sense of urgency"
+          "relevance_score": 0.4,
+          "reasoning": "Fear of missing out on rare coins, limited access to new releases"
         },
         {
           "core_drive": "Unpredictability",
-          "relevance_score": 0.25,
-          "reasoning": "New daily recipe suggestions provide some novelty"
+          "relevance_score": 0.2,
+          "reasoning": "Surprise and delight from discovering new coins, unexpected rarity drops"
         },
         {
           "core_drive": "Loss Avoidance",
-          "relevance_score": 0.8,
-          "reasoning": "Streak reminders, missed goal alerts align with dominant activation level and propensity for habit streaks"
+          "relevance_score": 0.3,
+          "reasoning": "Fear of losing progress, habit streaks, and missing out on future coin releases"
         }
       ]
     },
@@ -190,43 +185,43 @@
       "octolysis_themes": [
         {
           "core_drive": "Accomplishment",
-          "relevance_score": 0.83,
-          "reasoning": "Dominant propensity: ai_tutor, Activation Level: Medium, Product hooks: Streaks, XP, tier badges"
-        },
-        {
-          "core_drive": "Empowerment",
-          "relevance_score": 0.56,
-          "reasoning": "Product hook: Log \u2192 feedback \u2192 adjust loop"
-        },
-        {
-          "core_drive": "Ownership",
-          "relevance_score": 0.42,
-          "reasoning": "Product hook: Personal nutrition dashboard"
-        },
-        {
-          "core_drive": "Social Influence",
-          "relevance_score": 0.67,
-          "reasoning": "Product hooks: Recipe sharing, family plan milestones"
-        },
-        {
-          "core_drive": "Scarcity",
-          "relevance_score": 0.81,
-          "reasoning": "Product hook: Limited trial days, expiring challenges"
-        },
-        {
-          "core_drive": "Unpredictability",
-          "relevance_score": 0.49,
-          "reasoning": "Product hook: New daily recipe suggestions"
-        },
-        {
-          "core_drive": "Loss Avoidance",
-          "relevance_score": 0.72,
-          "reasoning": "Product hooks: Streak reminders, missed goal alerts"
+          "relevance_score": 0.64,
+          "reasoning": "Mastering skills, tracking progress"
         },
         {
           "core_drive": "Epic Meaning",
-          "relevance_score": 0.31,
-          "reasoning": "Minimal relevance to product context"
+          "relevance_score": 0.46,
+          "reasoning": "Feeling part of a community, shared goals"
+        },
+        {
+          "core_drive": "Social Influence",
+          "relevance_score": 0.42,
+          "reasoning": "Comparison to peers, leaderboards"
+        },
+        {
+          "core_drive": "Unpredictability",
+          "relevance_score": 0.38,
+          "reasoning": "Novelty in AI tutor interactions"
+        },
+        {
+          "core_drive": "Loss Avoidance",
+          "relevance_score": 0.35,
+          "reasoning": "Fear of losing progress, habit streaks"
+        },
+        {
+          "core_drive": "Empowerment",
+          "relevance_score": 0.23,
+          "reasoning": "Limited creative control in AI tutor"
+        },
+        {
+          "core_drive": "Scarcity",
+          "relevance_score": 0.19,
+          "reasoning": "Medium activation level, not highly engaged"
+        },
+        {
+          "core_drive": "Ownership",
+          "relevance_score": 0.14,
+          "reasoning": "No clear possessions or investments in AI tutor"
         }
       ]
     },
@@ -236,43 +231,43 @@
       "octolysis_themes": [
         {
           "core_drive": "Epic Meaning",
-          "relevance_score": 0.15,
-          "reasoning": "Participating in recipe sharing and family plan milestones"
-        },
-        {
-          "core_drive": "Accomplishment",
-          "relevance_score": 0.6,
-          "reasoning": "Streaks, XP, tier badges"
-        },
-        {
-          "core_drive": "Empowerment",
-          "relevance_score": 0.2,
-          "reasoning": "Log \u2192 feedback \u2192 adjust loop"
-        },
-        {
-          "core_drive": "Ownership",
           "relevance_score": 0.3,
-          "reasoning": "Personal nutrition dashboard"
+          "reasoning": "Participating in leaderboards fosters a sense of belonging to a community, aligning with their dominant propensity."
         },
         {
           "core_drive": "Social Influence",
-          "relevance_score": 0.4,
-          "reasoning": "Recipe sharing, family plan milestones"
+          "relevance_score": 0.6,
+          "reasoning": "Leaderboard rankings provide social validation and comparison, highly relevant to this segment's activation level."
+        },
+        {
+          "core_drive": "Accomplishment",
+          "relevance_score": 0.2,
+          "reasoning": "While not as dominant, the segment's average AI tutor propensity suggests a desire for skill mastery, which is partially addressed by leaderboard progress tracking."
         },
         {
           "core_drive": "Scarcity",
-          "relevance_score": 0.25,
-          "reasoning": "Limited trial days, expiring challenges"
+          "relevance_score": 0.1,
+          "reasoning": "The segment's medium activation level and lack of emphasis on scarcity in the product context suggest this core drive is less relevant."
         },
         {
           "core_drive": "Unpredictability",
+          "relevance_score": 0.0,
+          "reasoning": "This core drive is not applicable to a leaderboard-based system, making it irrelevant to this segment."
+        },
+        {
+          "core_drive": "Empowerment",
           "relevance_score": 0.1,
-          "reasoning": "New daily recipe suggestions"
+          "reasoning": "The product context does not emphasize creative control or choice, making this core drive less relevant."
+        },
+        {
+          "core_drive": "Ownership",
+          "relevance_score": 0.0,
+          "reasoning": "This core drive is not applicable to a leaderboard-based system, making it irrelevant to this segment."
         },
         {
           "core_drive": "Loss Avoidance",
-          "relevance_score": 0.4,
-          "reasoning": "Streak reminders, missed goal alerts"
+          "relevance_score": 0.2,
+          "reasoning": "The segment's average activation score and potential for plateau in gym progress suggest a desire to avoid losing progress, aligning with their dominant propensity."
         }
       ]
     },
@@ -283,42 +278,42 @@
         {
           "core_drive": "Accomplishment",
           "relevance_score": 0.23,
-          "reasoning": "Low gamification propensity, low activation level"
-        },
-        {
-          "core_drive": "Empowerment",
-          "relevance_score": 0.17,
-          "reasoning": "Log \u2192 feedback \u2192 adjust loop, but low activation"
-        },
-        {
-          "core_drive": "Ownership",
-          "relevance_score": 0.42,
-          "reasoning": "Personal nutrition dashboard, but low user count"
-        },
-        {
-          "core_drive": "Social Influence",
-          "relevance_score": 0.31,
-          "reasoning": "Recipe sharing, family plan milestones, but low activation"
-        },
-        {
-          "core_drive": "Scarcity",
-          "relevance_score": 0.56,
-          "reasoning": "Limited trial days, expiring challenges, dominant propensity"
-        },
-        {
-          "core_drive": "Unpredictability",
-          "relevance_score": 0.19,
-          "reasoning": "New daily recipe suggestions, but low user count"
+          "reasoning": "Low activation and avg_gamification propensity indicate a lack of progress or mastery, triggering a desire for accomplishment."
         },
         {
           "core_drive": "Loss Avoidance",
-          "relevance_score": 0.45,
-          "reasoning": "Streak reminders, missed goal alerts, dominant propensity"
+          "relevance_score": 0.42,
+          "reasoning": "Fading players are likely concerned about losing gym progress or habit streaks, making loss avoidance highly relevant."
+        },
+        {
+          "core_drive": "Social Influence",
+          "relevance_score": 0.11,
+          "reasoning": "Although low activation level suggests a lack of social influence, the segment's dominant propensity for gamification implies some connection to community or status."
+        },
+        {
+          "core_drive": "Unpredictability",
+          "relevance_score": 0.05,
+          "reasoning": "Low activation and avg_gamification propensity indicate a need for novelty, but this is not highly relevant due to low activation level."
         },
         {
           "core_drive": "Epic Meaning",
-          "relevance_score": 0.05,
-          "reasoning": "Low activation level, no clear connection to bigger purpose"
+          "relevance_score": 0.01,
+          "reasoning": "Fading players are unlikely to feel part of something bigger than themselves, given their low activation and average AI tutor propensity."
+        },
+        {
+          "core_drive": "Empowerment",
+          "relevance_score": 0.02,
+          "reasoning": "Low activation level suggests a lack of creative control or empowerment, making this core drive less relevant."
+        },
+        {
+          "core_drive": "Ownership",
+          "relevance_score": 0.01,
+          "reasoning": "Fading players are unlikely to feel ownership over their fitness journey, given their low activation and average macro tracking tedium."
+        },
+        {
+          "core_drive": "Scarcity",
+          "relevance_score": 0.04,
+          "reasoning": "Low activation level suggests a lack of fear of missing out or limited access, making scarcity less relevant."
         }
       ]
     },
@@ -328,43 +323,43 @@
       "octolysis_themes": [
         {
           "core_drive": "Accomplishment",
-          "relevance_score": 0.45,
-          "reasoning": "Low avg_gamification and avg_ai_tutor propensities, but streaks & XP tier badges product hooks align with accomplishment core drive"
-        },
-        {
-          "core_drive": "Empowerment",
-          "relevance_score": 0.3,
-          "reasoning": "Log \u2192 feedback \u2192 adjust loop product hook shows empowerment, but avg_activation level is low"
-        },
-        {
-          "core_drive": "Ownership",
-          "relevance_score": 0.6,
-          "reasoning": "Personal nutrition dashboard and recipe sharing family plan milestones align with ownership core drive"
-        },
-        {
-          "core_drive": "Social Influence",
-          "relevance_score": 0.2,
-          "reasoning": "Recipe sharing, family plan milestones product hooks show social influence, but avg_leaderboard propensity is low"
-        },
-        {
-          "core_drive": "Scarcity",
-          "relevance_score": 0.8,
-          "reasoning": "Limited trial days and expiring challenges align with scarcity core drive, reflecting dominant ai_tutor propensity and activation level"
-        },
-        {
-          "core_drive": "Unpredictability",
-          "relevance_score": 0.1,
-          "reasoning": "New daily recipe suggestions product hook shows unpredictability, but avg_activation level is low"
+          "relevance_score": 0.23,
+          "reasoning": "Low activation and avg_gamification propensity indicate a lack of progress, triggering feelings of stagnation"
         },
         {
           "core_drive": "Loss Avoidance",
-          "relevance_score": 0.4,
-          "reasoning": "Streak reminders and missed goal alerts align with loss avoidance core drive, reflecting dominant ai_tutor propensity and activation level"
+          "relevance_score": 0.51,
+          "reasoning": "Activation level and avg_activation score suggest users fear losing progress, making loss avoidance highly relevant"
         },
         {
           "core_drive": "Epic Meaning",
+          "relevance_score": 0.14,
+          "reasoning": "Dominant propensity for ai_tutor and low activation level imply a desire to feel part of something bigger, but lack of engagement"
+        },
+        {
+          "core_drive": "Social Influence",
+          "relevance_score": 0.12,
+          "reasoning": "Low avg_leaderboard propensity indicates users are not seeking social comparison or status"
+        },
+        {
+          "core_drive": "Unpredictability",
           "relevance_score": 0.05,
-          "reasoning": "No direct product hooks or propensities align with epic meaning core drive"
+          "reasoning": "Low activation level and lack of engagement suggest users prefer routine, making unpredictability less relevant"
+        },
+        {
+          "core_drive": "Scarcity",
+          "relevance_score": 0.01,
+          "reasoning": "No clear triggers or pain points related to scarcity, making it the least relevant core drive"
+        },
+        {
+          "core_drive": "Empowerment",
+          "relevance_score": 0.0,
+          "reasoning": "Low activation level and lack of engagement suggest users do not feel empowered or in control"
+        },
+        {
+          "core_drive": "Ownership",
+          "relevance_score": 0.01,
+          "reasoning": "No clear triggers or pain points related to ownership, making it the least relevant core drive"
         }
       ]
     },
@@ -375,42 +370,42 @@
         {
           "core_drive": "Accomplishment",
           "relevance_score": 0.3,
-          "reasoning": "Low activation and avg_gamification propensity indicate a need for progress tracking"
-        },
-        {
-          "core_drive": "Empowerment",
-          "relevance_score": 0.2,
-          "reasoning": "Log \u2192 feedback \u2192 adjust loop suggests user control over their experience"
-        },
-        {
-          "core_drive": "Ownership",
-          "relevance_score": 0.4,
-          "reasoning": "Personal nutrition dashboard and recipe sharing indicate a desire for possession and investment"
+          "reasoning": "Low activation and avg_leaderboard propensity indicate a lack of progress tracking, making Accomplishment less relevant."
         },
         {
           "core_drive": "Social Influence",
-          "relevance_score": 0.25,
-          "reasoning": "Recipe sharing and family plan milestones suggest social connection and status"
-        },
-        {
-          "core_drive": "Scarcity",
           "relevance_score": 0.4,
-          "reasoning": "Limited trial days and expiring challenges create a sense of urgency and FOMO"
-        },
-        {
-          "core_drive": "Unpredictability",
-          "relevance_score": 0.15,
-          "reasoning": "New daily recipe suggestions introduce novelty and surprise"
+          "reasoning": "Dominant Propensity: leaderboard suggests social comparison, and Low Activation Level indicates a desire for connection."
         },
         {
           "core_drive": "Loss Avoidance",
-          "relevance_score": 0.3,
-          "reasoning": "Streak reminders and missed goal alerts prevent loss of progress and habit streaks"
+          "relevance_score": 0.6,
+          "reasoning": "Low Activation Score and avg_leaderboard propensity indicate fear of losing progress, making Loss Avoidance highly relevant."
         },
         {
           "core_drive": "Epic Meaning",
+          "relevance_score": 0.2,
+          "reasoning": "Low activation level and lack of product context suggest a disconnection from something bigger than oneself."
+        },
+        {
+          "core_drive": "Empowerment",
           "relevance_score": 0.1,
-          "reasoning": "Building a healthier life identity is a vague aspiration with low activation"
+          "reasoning": "Low activation level and lack of creative control in the product indicate low Empowerment relevance."
+        },
+        {
+          "core_drive": "Ownership",
+          "relevance_score": 0.0,
+          "reasoning": "No possessions or investments in the product context, making Ownership irrelevant."
+        },
+        {
+          "core_drive": "Scarcity",
+          "relevance_score": 0.1,
+          "reasoning": "Low activation level and lack of limited access in the product context suggest low Scarcity relevance."
+        },
+        {
+          "core_drive": "Unpredictability",
+          "relevance_score": 0.0,
+          "reasoning": "No novelty or randomness in the product context, making Unpredictability irrelevant."
         }
       ]
     }
