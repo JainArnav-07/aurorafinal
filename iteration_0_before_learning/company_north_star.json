@@ -1,0 +1,5 @@
+{
+  "inferred_north_star": "Monthly Healthy Habit Streaks (MHS)",
+  "justification": "The primary inferred North Star metric is Monthly Healthy Habit Streaks (MHS), which measures the number of users who log \u226515 meals per month with consistent macro alignment to their personal health goal.",
+  "measurable_proxy": "Weekly active meal loggers"
+}

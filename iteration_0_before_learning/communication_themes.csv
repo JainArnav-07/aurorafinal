@@ -1,0 +1,10 @@
+Segment ID,Segment Name,Primary Theme,Secondary Theme,Tone Preferences,Hooks per Segment
+S1,Streak Champions,Accomplishment,Loss Avoidance,"Progress-focused, not appearance-obsessed, Warm accountability","Log → feedback → adjust loop, Streak reminders, missed goal alerts"
+S2,Power Learners,Accomplishment,Empowerment,"Progress-focused, not appearance-obsessed, Warm accountability","Log → feedback → adjust loop, Streaks, XP, tier badges"
+S3,Top Competitors,Scarcity,Accomplishment,"Limited trial days, expiring challenges, Warm accountability","Streaks, XP, tier badges"
+S4,Coin Collectors,Loss Avoidance,Accomplishment,"Body-neutral, Warm accountability","Log → feedback → adjust loop, Streak reminders, missed goal alerts"
+S5,Steady Students,Accomplishment,Scarcity,"Warm accountability, Body-neutral","Log → feedback → adjust loop, Streak reminders, missed goal alerts"
+S6,Social Observers,Accomplishment,Social Influence,"Body-neutral, Warm accountability","Building a healthier life identity, Recipe sharing, family plan milestones"
+S7,Fading Players,Scarcity,Loss Avoidance,"Limited trial days, expiring challenges, Shame-based urgency",
+S8,Stuck Users,Scarcity,Ownership,"Shame-based urgency, Unrealistic transformation promises",
+S9,Disconnected,Ownership,Scarcity,"Body-neutral, Warm accountability","Log → feedback → adjust loop, Limited trial days, expiring challenges"

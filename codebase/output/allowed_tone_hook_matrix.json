@@ -1,0 +1,50 @@
+{
+  "allowed_tones": [
+    "Body-neutral",
+    "Non-judgmental about food choices",
+    "Progress-focused, not appearance-obsessed",
+    "Warm accountability",
+    "Micro-win celebration"
+  ],
+  "disallowed_tones": [
+    "Diet culture language",
+    "Shame-based urgency",
+    "Unrealistic transformation promises",
+    "Comparison with other users' bodies or progress",
+    "Over-notification pressure"
+  ],
+  "hook_taxonomy": [
+    {
+      "hook_name": "Building a healthier life identity",
+      "description": "Epic Meaning: Building a healthier life identity"
+    },
+    {
+      "hook_name": "Streaks, XP, tier badges",
+      "description": "Accomplishment: Streaks, XP, tier badges"
+    },
+    {
+      "hook_name": "Log \u2192 feedback \u2192 adjust loop",
+      "description": "Empowerment: Log \u2192 feedback \u2192 adjust loop"
+    },
+    {
+      "hook_name": "Personal nutrition dashboard",
+      "description": "Ownership: Personal nutrition dashboard"
+    },
+    {
+      "hook_name": "Recipe sharing, family plan milestones",
+      "description": "Social Influence: Recipe sharing, family plan milestones"
+    },
+    {
+      "hook_name": "Limited trial days, expiring challenges",
+      "description": "Scarcity: Limited trial days, expiring challenges"
+    },
+    {
+      "hook_name": "New daily recipe suggestions",
+      "description": "Unpredictability: New daily recipe suggestions"
+    },
+    {
+      "hook_name": "Streak reminders, missed goal alerts",
+      "description": "Loss Avoidance: Streak reminders, missed goal alerts"
+    }
+  ]
+}

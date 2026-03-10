@@ -1,0 +1,17 @@
+segment_id,segment_name,optimal_window,peak_hour,user_fraction,expected_ctr,expected_engagement_score
+S1,Streak Champions,evening,20.0,0.4885,0.363,0.879
+S1,Streak Champions,night,5.0,0.5115,0.442,0.755
+S2,Power Learners,evening,19.0,0.0901,0.448,0.707
+S2,Power Learners,night,22.0,0.9099,0.57,0.889
+S3,Top Competitors,late_afternoon,16.0,1.0,0.421,0.772
+S4,Coin Collectors,evening,18.0,1.0,0.364,0.63
+S5,Steady Students,evening,20.2,0.8895,0.388,0.533
+S5,Steady Students,afternoon,13.0,0.1105,0.2,0.5
+S6,Social Observers,evening,19.6,0.0863,0.349,0.524
+S6,Social Observers,late_afternoon,15.0,0.9137,0.483,0.694
+S7,Fading Players,mid_morning,9.1,0.1583,0.04,0.1471
+S7,Fading Players,night,20.5,0.1172,0.056,0.053
+S7,Fading Players,early_morning,7.5,0.7246,0.1,0.3
+S8,Stuck Users,night,21.0,1.0,0.044,0.067
+S9,Disconnected,evening,19.2,0.2088,0.0682,0.24
+S9,Disconnected,late_afternoon,16.5,0.7912,0.13,0.3462
