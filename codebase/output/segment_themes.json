@@ -1,0 +1,419 @@
+{
+  "segments": [
+    {
+      "segment_id": "S1",
+      "segment_name": "Streak Champions",
+      "octolysis_themes": [
+        {
+          "core_drive": "Accomplishment",
+          "relevance_score": 0.83,
+          "reasoning": "High gamification propensity and activation level align with mastery of skills and progress tracking"
+        },
+        {
+          "core_drive": "Epic Meaning",
+          "relevance_score": 0.42,
+          "reasoning": "Moderate AI tutor propensity and retention product hook hint at connection to something bigger"
+        },
+        {
+          "core_drive": "Ownership",
+          "relevance_score": 0.19,
+          "reasoning": "Low ownership propensity and no clear product hook for building possessions"
+        },
+        {
+          "core_drive": "Social Influence",
+          "relevance_score": 0.56,
+          "reasoning": "Moderate leaderboard propensity and activation level suggest connection to community and status"
+        },
+        {
+          "core_drive": "Scarcity",
+          "relevance_score": 0.11,
+          "reasoning": "Low scarcity propensity and no clear product hook for limited access"
+        },
+        {
+          "core_drive": "Unpredictability",
+          "relevance_score": 0.0,
+          "reasoning": "No clear product hook or propensity for curiosity, randomness, or novelty"
+        },
+        {
+          "core_drive": "Loss Avoidance",
+          "relevance_score": 0.65,
+          "reasoning": "High retention product hook and activation level align with fear of losing progress and habit streaks"
+        },
+        {
+          "core_drive": "Empowerment",
+          "relevance_score": 0.0,
+          "reasoning": "No clear product hook or propensity for creative control, making choices"
+        }
+      ]
+    },
+    {
+      "segment_id": "S2",
+      "segment_name": "Power Learners",
+      "octolysis_themes": [
+        {
+          "core_drive": "Accomplishment",
+          "relevance_score": 0.83,
+          "reasoning": "High activation level and ai_tutor propensity indicate a strong desire for skill mastery and progress"
+        },
+        {
+          "core_drive": "Epic Meaning",
+          "relevance_score": 0.42,
+          "reasoning": "Moderate activation level and no explicit connection to community or status"
+        },
+        {
+          "core_drive": "Empowerment",
+          "relevance_score": 0.11,
+          "reasoning": "Low activation level and no clear indication of creative control or choice"
+        },
+        {
+          "core_drive": "Ownership",
+          "relevance_score": 0.0,
+          "reasoning": "No clear indication of building possessions or investing time/effort"
+        },
+        {
+          "core_drive": "Social Influence",
+          "relevance_score": 0.0,
+          "reasoning": "No clear indication of connection to community or status"
+        },
+        {
+          "core_drive": "Scarcity",
+          "relevance_score": 0.0,
+          "reasoning": "No clear indication of fear of missing out or limited access"
+        },
+        {
+          "core_drive": "Unpredictability",
+          "relevance_score": 0.0,
+          "reasoning": "No clear indication of curiosity or randomness"
+        },
+        {
+          "core_drive": "Loss Avoidance",
+          "relevance_score": 0.56,
+          "reasoning": "Moderate activation level and product hook for re-activation"
+        }
+      ]
+    },
+    {
+      "segment_id": "S3",
+      "segment_name": "Top Competitors",
+      "octolysis_themes": [
+        {
+          "core_drive": "Accomplishment",
+          "relevance_score": 0.83,
+          "reasoning": "High leaderboard propensity and activation level indicate a strong desire for progress and mastery"
+        },
+        {
+          "core_drive": "Social Influence",
+          "relevance_score": 0.72,
+          "reasoning": "Top competitors are highly activated and have a strong propensity for gamification, suggesting a desire for connection and status"
+        },
+        {
+          "core_drive": "Epic Meaning",
+          "relevance_score": 0.56,
+          "reasoning": "While not dominant, the segment's high activation level and average AI tutor propensity suggest a desire for meaning and purpose"
+        },
+        {
+          "core_drive": "Ownership",
+          "relevance_score": 0.45,
+          "reasoning": "Moderate propensity for AI tutors and activation level indicate a desire for building and investing in something"
+        },
+        {
+          "core_drive": "Scarcity",
+          "relevance_score": 0.38,
+          "reasoning": "Low but present activation level and average leaderboard propensity suggest a fear of missing out or limited access"
+        },
+        {
+          "core_drive": "Unpredictability",
+          "relevance_score": 0.23,
+          "reasoning": "Low activation level and average AI tutor propensity indicate a lack of curiosity or novelty-seeking"
+        },
+        {
+          "core_drive": "Loss Avoidance",
+          "relevance_score": 0.17,
+          "reasoning": "Low activation level and average leaderboard propensity suggest a low fear of losing progress or habit streaks"
+        },
+        {
+          "core_drive": "Empowerment",
+          "relevance_score": 0.12,
+          "reasoning": "Low activation level and average AI tutor propensity indicate a lack of creative control or choice"
+        }
+      ]
+    },
+    {
+      "segment_id": "S4",
+      "segment_name": "Coin Collectors",
+      "octolysis_themes": [
+        {
+          "core_drive": "Accomplishment",
+          "relevance_score": 0.83,
+          "reasoning": "Dominant propensity for gamification and activation level of Medium align with Accomplishment core drive"
+        },
+        {
+          "core_drive": "Ownership",
+          "relevance_score": 0.72,
+          "reasoning": "User's interest in collecting coins and building possessions aligns with Ownership core drive"
+        },
+        {
+          "core_drive": "Social Influence",
+          "relevance_score": 0.56,
+          "reasoning": "User's activation level and interest in community status align with Social Influence core drive"
+        },
+        {
+          "core_drive": "Epic Meaning",
+          "relevance_score": 0.41,
+          "reasoning": "User's interest in collecting rare coins and feeling part of a community aligns with Epic Meaning core drive"
+        },
+        {
+          "core_drive": "Scarcity",
+          "relevance_score": 0.29,
+          "reasoning": "User's activation level and interest in limited access align with Scarcity core drive"
+        },
+        {
+          "core_drive": "Unpredictability",
+          "relevance_score": 0.19,
+          "reasoning": "User's interest in collecting rare coins and novelty aligns with Unpredictability core drive"
+        },
+        {
+          "core_drive": "Loss Avoidance",
+          "relevance_score": 0.11,
+          "reasoning": "User's activation level and interest in re-activation align with Loss Avoidance core drive"
+        },
+        {
+          "core_drive": "Empowerment",
+          "relevance_score": 0.05,
+          "reasoning": "User's interest in collecting coins does not strongly align with Empowerment core drive"
+        }
+      ]
+    },
+    {
+      "segment_id": "S5",
+      "segment_name": "Steady Students",
+      "octolysis_themes": [
+        {
+          "core_drive": "Accomplishment",
+          "relevance_score": 0.83,
+          "reasoning": "Dominant propensity: ai_tutor; Activation Level: Medium; Product Context: Value realization"
+        },
+        {
+          "core_drive": "Empowerment",
+          "relevance_score": 0.42,
+          "reasoning": "Activation Level: Medium; Product Context: Value realization"
+        },
+        {
+          "core_drive": "Ownership",
+          "relevance_score": 0.19,
+          "reasoning": "Product Context: Value realization"
+        },
+        {
+          "core_drive": "Social Influence",
+          "relevance_score": 0.56,
+          "reasoning": "Activation Level: Medium; Product Context: Value realization"
+        },
+        {
+          "core_drive": "Scarcity",
+          "relevance_score": 0.11,
+          "reasoning": "Product Context: Value realization"
+        },
+        {
+          "core_drive": "Unpredictability",
+          "relevance_score": 0.0,
+          "reasoning": "No relevance"
+        },
+        {
+          "core_drive": "Loss Avoidance",
+          "relevance_score": 0.3,
+          "reasoning": "Activation Level: Medium; Product Context: Value realization"
+        },
+        {
+          "core_drive": "Epic Meaning",
+          "relevance_score": 0.0,
+          "reasoning": "No relevance"
+        }
+      ]
+    },
+    {
+      "segment_id": "S6",
+      "segment_name": "Social Observers",
+      "octolysis_themes": [
+        {
+          "core_drive": "Social Influence",
+          "relevance_score": 0.83,
+          "reasoning": "High leaderboard propensity and activation level indicate a desire for social comparison and community connection"
+        },
+        {
+          "core_drive": "Accomplishment",
+          "relevance_score": 0.56,
+          "reasoning": "Moderate AI tutor propensity suggests a desire for skill mastery and progress"
+        },
+        {
+          "core_drive": "Epic Meaning",
+          "relevance_score": 0.42,
+          "reasoning": "Low epic meaning propensity, but medium activation level indicates a desire for connection to something bigger"
+        },
+        {
+          "core_drive": "Ownership",
+          "relevance_score": 0.19,
+          "reasoning": "Low ownership propensity, but moderate activation level suggests a desire for building possessions"
+        },
+        {
+          "core_drive": "Scarcity",
+          "relevance_score": 0.11,
+          "reasoning": "Low scarcity propensity, but high activation level indicates a fear of missing out"
+        },
+        {
+          "core_drive": "Unpredictability",
+          "relevance_score": 0.05,
+          "reasoning": "Low unpredictability propensity, but medium activation level suggests a desire for novelty"
+        },
+        {
+          "core_drive": "Loss Avoidance",
+          "relevance_score": 0.03,
+          "reasoning": "Low loss avoidance propensity, but high activation level indicates a fear of losing progress"
+        },
+        {
+          "core_drive": "Empowerment",
+          "relevance_score": 0.01,
+          "reasoning": "Low empowerment propensity, but low activation level suggests a lack of creative control"
+        }
+      ]
+    },
+    {
+      "segment_id": "S7",
+      "segment_name": "Fading Players",
+      "octolysis_themes": [
+        {
+          "core_drive": "Accomplishment",
+          "relevance_score": 0.05,
+          "reasoning": "Low gamification propensity and activation level indicate a lack of progress and mastery"
+        },
+        {
+          "core_drive": "Loss Avoidance",
+          "relevance_score": 0.3,
+          "reasoning": "Fading players are likely to fear losing progress and habit streaks"
+        },
+        {
+          "core_drive": "Social Influence",
+          "relevance_score": 0.1,
+          "reasoning": "Low social influence propensity suggests a lack of connection to community and status"
+        },
+        {
+          "core_drive": "Unpredictability",
+          "relevance_score": 0.05,
+          "reasoning": "Low activation level and lack of product hooks indicate a need for novelty and randomness"
+        },
+        {
+          "core_drive": "Epic Meaning",
+          "relevance_score": 0.05,
+          "reasoning": "Low activation level and lack of product hooks indicate a lack of connection to something bigger"
+        },
+        {
+          "core_drive": "Empowerment",
+          "relevance_score": 0.0,
+          "reasoning": "Low activation level and lack of product hooks indicate a lack of creative control and choices"
+        },
+        {
+          "core_drive": "Ownership",
+          "relevance_score": 0.0,
+          "reasoning": "Low activation level and lack of product hooks indicate a lack of building possessions and investing time/effort"
+        },
+        {
+          "core_drive": "Scarcity",
+          "relevance_score": 0.0,
+          "reasoning": "Low activation level and lack of product hooks indicate a lack of fear of missing out and limited access"
+        }
+      ]
+    },
+    {
+      "segment_id": "S8",
+      "segment_name": "Stuck Users",
+      "octolysis_themes": [
+        {
+          "core_drive": "Accomplishment",
+          "relevance_score": 0.23,
+          "reasoning": "Low avg_gamification and avg_ai_tutor propensities indicate a lack of progress and skill mastery"
+        },
+        {
+          "core_drive": "Loss Avoidance",
+          "relevance_score": 0.51,
+          "reasoning": "Low avg_activation and high churn/inactive rates suggest fear of losing progress and habit streaks"
+        },
+        {
+          "core_drive": "Social Influence",
+          "relevance_score": 0.14,
+          "reasoning": "Low avg_leaderboard propensity indicates a lack of connection to community and status"
+        },
+        {
+          "core_drive": "Unpredictability",
+          "relevance_score": 0.01,
+          "reasoning": "Low avg_activation and no product hooks indicate a lack of novelty and randomness"
+        },
+        {
+          "core_drive": "Epic Meaning",
+          "relevance_score": 0.05,
+          "reasoning": "Low avg_gamification and avg_ai_tutor propensities indicate a lack of connection to something bigger than oneself"
+        },
+        {
+          "core_drive": "Empowerment",
+          "relevance_score": 0.0,
+          "reasoning": "Low avg_gamification and avg_ai_tutor propensities indicate a lack of creative control and choices"
+        },
+        {
+          "core_drive": "Ownership",
+          "relevance_score": 0.0,
+          "reasoning": "Low avg_gamification and avg_ai_tutor propensities indicate a lack of building possessions and investing time/effort"
+        },
+        {
+          "core_drive": "Scarcity",
+          "relevance_score": 0.0,
+          "reasoning": "Low avg_activation and no product hooks indicate a lack of fear of missing out and limited access"
+        }
+      ]
+    },
+    {
+      "segment_id": "S9",
+      "segment_name": "Disconnected",
+      "octolysis_themes": [
+        {
+          "core_drive": "Accomplishment",
+          "relevance_score": 0.05,
+          "reasoning": "Low activation level and average AI tutor propensity indicate a lack of progress or skill mastery"
+        },
+        {
+          "core_drive": "Social Influence",
+          "relevance_score": 0.15,
+          "reasoning": "Dominant propensity for leaderboard and average activation score suggest a desire for connection and status"
+        },
+        {
+          "core_drive": "Scarcity",
+          "relevance_score": 0.1,
+          "reasoning": "Low activation level and average leaderboard propensity indicate a fear of missing out"
+        },
+        {
+          "core_drive": "Unpredictability",
+          "relevance_score": 0.05,
+          "reasoning": "Low activation level and lack of engagement suggest a desire for novelty and randomness"
+        },
+        {
+          "core_drive": "Loss Avoidance",
+          "relevance_score": 0.2,
+          "reasoning": "Low activation score and average leaderboard propensity indicate a fear of losing progress and habit streaks"
+        },
+        {
+          "core_drive": "Epic Meaning",
+          "relevance_score": 0.05,
+          "reasoning": "Low activation level and lack of engagement suggest a lack of connection to a larger purpose"
+        },
+        {
+          "core_drive": "Empowerment",
+          "relevance_score": 0.0,
+          "reasoning": "Low activation level and lack of engagement indicate a lack of creative control and choice"
+        },
+        {
+          "core_drive": "Ownership",
+          "relevance_score": 0.0,
+          "reasoning": "Low activation level and lack of engagement suggest a lack of investment in possessions or time/effort"
+        }
+      ]
+    }
+  ],
+  "total_segments": 9
+}

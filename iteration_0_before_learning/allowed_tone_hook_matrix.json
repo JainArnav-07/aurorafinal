@@ -1,0 +1,36 @@
+{
+  "allowed_tones": [
+    "Encouraging",
+    "Non-judgmental",
+    "Growth-focused",
+    "Friendly accountability",
+    "Small wins celebration"
+  ],
+  "disallowed_tones": [
+    "Shame-based urgency",
+    "Fear manipulation",
+    "Unrealistic promises",
+    "Comparison with other users",
+    "Over-notification pressure"
+  ],
+  "hook_taxonomy": [
+    {
+      "hook_name": "Paid (D8\u201330)",
+      "description": "Value realization",
+      "title": "Paid (D8\u201330)",
+      "type": "object"
+    },
+    {
+      "hook_name": "Retention (D31+)",
+      "description": "Identity formation",
+      "title": "Retention (D31+)",
+      "type": "object"
+    },
+    {
+      "hook_name": "Churned / Inactive",
+      "description": "Re-activation",
+      "title": "Churned / Inactive",
+      "type": "object"
+    }
+  ]
+}

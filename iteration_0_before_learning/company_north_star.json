@@ -1,0 +1,5 @@
+{
+  "inferred_north_star": "Value realization",
+  "justification": "Value realization is the primary goal for users in the paid stage, and it is measured by MCC trajectory",
+  "measurable_proxy": "MCC trajectory"
+}

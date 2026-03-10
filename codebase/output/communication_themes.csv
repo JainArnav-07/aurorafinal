@@ -1,0 +1,10 @@
+Segment ID,Segment Name,Primary Theme,Secondary Theme,Tone Preferences,Hooks per Segment
+S1,Streak Champions,Accomplishment,Loss Avoidance,"Encouraging, Growth-focused",Paid (D8–30)
+S2,Power Learners,Accomplishment,Loss Avoidance,"Encouraging, Growth-focused",Paid (D8–30)
+S3,Top Competitors,Accomplishment,Social Influence,"Encouraging, Growth-focused",Paid (D8–30)
+S4,Coin Collectors,Accomplishment,Ownership,"Encouraging, Growth-focused, Friendly accountability","Paid (D8–30), Retention (D31+)"
+S5,Steady Students,Accomplishment,Social Influence,"Encouraging, Growth-focused, Friendly accountability",Retention (D31+)
+S6,Social Observers,Social Influence,Accomplishment,"Encouraging, Growth-focused",Retention (D31+)
+S7,Fading Players,Loss Avoidance,Social Influence,"Encouraging, Non-judgmental, Growth-focused",Retention (D31+)
+S8,Stuck Users,Loss Avoidance,Accomplishment,"Friendly accountability, Growth-focused",Retention (D31+)
+S9,Disconnected,Loss Avoidance,Social Influence,"Encouraging, Growth-focused",Retention (D31+)

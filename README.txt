@@ -173,6 +173,18 @@ Execution order:
 All outputs are written to codebase/output/.
 Iteration snapshots are saved to iteration_0_before_learning/ and iteration_1_after_learning/.
 
+NOTE ON ITERATION 1 OUTPUT
+--------------------------
+Since experiment_results.csv (A/B test feedback data) is not provided in this submission,
+the iteration_1_after_learning/ folder is intentionally left empty and no Iteration 1
+outputs have been pre-generated. This is expected — the code is fully functional.
+
+To compute Iteration 1, simply place your experiment_results.csv in the project root
+(home) directory and re-run task3_users_notifications_generation.ipynb. The pipeline will
+automatically read the file, apply epsilon-greedy template weighting, update timing
+windows, and populate iteration_1_after_learning/ with the updated schedule and delta
+report.
+
 CONFIGURATION NOTES
 -------------------
 - Switch between web and local Ollama by editing OLLAMA_MODE in codebase/.env
@@ -182,4 +194,9 @@ CONFIGURATION NOTES
 - Softmax temperature (SOFTMAX_TEMPERATURE=0.05) controls exploitation vs. exploration
   in timing window selection; lower = more aggressive exploitation of top windows
 - Uninstall rate cap threshold (UNINSTALL_RATE_THRESHOLD=0.02) and cap limit
-  (UNINSTALL_NOTIF_CAP=2) are configurable at the top of task3
+  _users_notifications_generation.ipynb
+
+  GITHUB REPOSITORY
+  -----------------
+  https://github.com/Aurora-PS-IITG/aurorafinal
+  
