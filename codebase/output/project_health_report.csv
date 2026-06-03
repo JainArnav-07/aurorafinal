@@ -1,0 +1,9 @@
+metric,value
+avg_activation_score,0.481
+max_activation_score,1.0
+min_activation_score,0.0
+largest_segment,S6
+largest_segment_users,14
+best_time_window,late_afternoon
+best_window_ctr,0.475
+avg_daily_notification_limit,5.13
